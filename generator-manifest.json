@@ -1,0 +1,18 @@
+{
+  "branch": "main",
+  "depends_recipe": "",
+  "description_control": "Control your internal system fan.",
+  "description_recipe": "Control your internal system fan.",
+  "history_source_dir": "TempFanControl",
+  "internal_package_name": "enigma2-plugin-systemplugins-fancontrol",
+  "module_dir_name": "TempFanControl",
+  "output_subdir": "TempFanControl",
+  "package_name": "enigma2-plugin-systemplugins-fancontrol-temp-fan-control",
+  "plugin_src_rel": "TempFanControl",
+  "python_package": "TempFanControl",
+  "rdepends_recipe": "",
+  "replaces": "",
+  "repo_name": "TempFanControl",
+  "rrecommends": "",
+  "rreplaces": ""
+}
