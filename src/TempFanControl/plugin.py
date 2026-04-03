@@ -148,8 +148,8 @@ class TempFanControl(ConfigListScreen, Screen):
 			self.list.append(getConfigListEntry(_("Standby fan %d PWM") % (count + 1), fancontrol.getConfig(count).pwm_standby))
 
 		ConfigListScreen.__init__(self, self.list, session=self.session)
-		#self["config"].list = self.list
-		#self["config"].setList(self.list)
+		# self["config"].list = self.list
+		# self["config"].setList(self.list)
 		self["config"].l.setSeperation(300)
 
 		self["actions"] = ActionMap(["OkCancelActions", "ColorActions", "MenuActions"],
