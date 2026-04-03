@@ -17,7 +17,7 @@ try:
 	from Components.SystemInfo import BoxInfo
 	IMAGEDISTRO = BoxInfo.getItem("distro")
 	BRAND = BoxInfo.getItem("brand")
-except:
+except ImportError:
 	from boxbranding import getImageDistro, getBrandOEM
 	IMAGEDISTRO = getImageDistro()
 	BRAND = getBrandOEM()
