@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ViX\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2018-07-31 10:27+0200\n"
 "Last-Translator: Rob van der Does <RobvanderDoes@Gmail.com>\n"
 "Language-Team: Andy Blackburn, Rob van der Does\n"
@@ -18,34 +18,43 @@ msgstr ""
 "X-Generator: Poedit 2.1.1\n"
 "X-Poedit-SearchPath-0: ..\n"
 
+#: ../plugin.py:114
 msgid "Cancel"
 msgstr "Annuleer"
 
 #
+#: ../plugin.py:145
 #, python-format
 msgid "Fan %d PWM"
 msgstr "Ventilator %d PWM"
 
+#: ../plugin.py:144
 #, python-format
 msgid "Fan %d voltage"
 msgstr "Ventilator %d voltage"
 
+#: ../plugin.py:107 ../plugin.py:205
 msgid "Fan Control"
 msgstr "Fan Control"
 
+#: ../plugin.py:115
 msgid "OK"
 msgstr "OK"
 
+#: ../plugin.py:148
 #, python-format
 msgid "Standby fan %d PWM"
 msgstr "Stand-by fan %d PWM"
 
+#: ../plugin.py:147
 #, python-format
 msgid "Standby fan %d voltage"
 msgstr "Stand-by fan %d voltage"
 
+#: ../plugin.py:205
 msgid "Temperature and Fan control"
 msgstr "Temperatuur- en ventilatorcontrole"
 
+#: ../plugin.py:199
 msgid "Temperature and fan control"
 msgstr "Temperatuur- en ventilatorcontrole"

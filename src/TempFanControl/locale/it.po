@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2022-11-04 19:39+0100\n"
 "Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <>\n"
@@ -18,34 +18,43 @@ msgstr ""
 "X-Poedit-SourceCharset: iso-8859-1\n"
 
 #
+#: ../plugin.py:114
 msgid "Cancel"
 msgstr "Annulla"
 
+#: ../plugin.py:145
 #, python-format
 msgid "Fan %d PWM"
 msgstr "PWM ventola %d"
 
+#: ../plugin.py:144
 #, python-format
 msgid "Fan %d voltage"
 msgstr "Tensione ventola %d"
 
+#: ../plugin.py:107 ../plugin.py:205
 msgid "Fan Control"
 msgstr "Controllo ventola"
 
 #
+#: ../plugin.py:115
 msgid "OK"
 msgstr "OK"
 
+#: ../plugin.py:148
 #, python-format
 msgid "Standby fan %d PWM"
 msgstr "PWM ventola in standby %d"
 
+#: ../plugin.py:147
 #, python-format
 msgid "Standby fan %d voltage"
 msgstr "Tensione ventola in standby %d"
 
+#: ../plugin.py:205
 msgid "Temperature and Fan control"
 msgstr "Controllo temperatura e ventola"
 
+#: ../plugin.py:199
 msgid "Temperature and fan control"
 msgstr "Controllo temperatura e ventola"
